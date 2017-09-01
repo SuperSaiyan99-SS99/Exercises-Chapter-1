@@ -1,0 +1,33 @@
+1.a. b
+1.b. c
+1.c. c
+1.d. a
+1.e. c
+1.f. a
+1.g. c
+1.h. c
+1.i. c
+1.j. b
+
+2.a. a
+2.b. c
+2.c. c
+2.d. b
+2.e. c
+2.f. b
+2.g. c
+2.h. c
+2.i. a
+2.j. b
+
+3.a. Teacher, Students, Desks
+3.b. Coverage, Cost, Duration
+3.c. Owed, Company, Purchases
+
+4.a. cars, dispicableMe, avengers
+4.b. chicagoBears, greenBayPackers, dallasCowboys 
+4.c. katiePerry, mileyCyrus, beyonceKnowles
+
+5.a. School, Playgrounds, OutsideFun
+5.b. Seafood, Food, Dinner
+5.c. HouseObjects, GrandmasStuff, Furniture
